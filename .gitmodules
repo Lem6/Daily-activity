@@ -1,0 +1,3 @@
+[submodule "Daily-activity"]
+	path = Daily-activity
+	url = https://github.com/atsi6/Daily-activity.git
